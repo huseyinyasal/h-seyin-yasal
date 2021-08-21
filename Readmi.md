@@ -1,4 +1,4 @@
---soap kurulumu--
+-- soap kurulum-- 
 <?php
 if(extension_loaded("soap")){
 echo "soap kurulu ";
